@@ -1,0 +1,1 @@
+web: waitress heart-disease-classification:app
