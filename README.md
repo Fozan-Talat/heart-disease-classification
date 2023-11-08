@@ -22,3 +22,7 @@ The best model was selected from:
 
 
 First baseline models were obtained without handling the class imbalance, and then new models were built handling class imbalance with class weights. Techniques like oversampling and/or undersampling were not applied here.
+
+## The metrics
+
+Several metrics were calculated but the most useful for this problem were **F1**, **recall**, and **MCC** (Matthews correlation coefficient
