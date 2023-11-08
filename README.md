@@ -1,6 +1,6 @@
 # Heart Disease Risk Classification
 
-Here you'll find a solution to selecting and training a classification model to predict the risk for heart disease, putting it to a web service using [Flask](https://flask.palletsprojects.com/en/3.0.x/) and then containerizing it using docker.
+Here you'll find a solution to selecting and training a classification model to predict the risk for heart disease, putting it into a web service using [Flask](https://flask.palletsprojects.com/en/3.0.x/) and then containerizing it using docker.
 
 ## The problem
 
