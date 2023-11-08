@@ -25,4 +25,5 @@ First baseline models were obtained without handling the class imbalance, and th
 
 ## The metrics
 
-Several metrics were calculated but the most useful for this problem were **F1**, **recall**, and **MCC** (Matthews correlation coefficient)
+Several metrics were calculated but the most useful for this problem were **F1**, **recall**, and **MCC** (Matthews correlation coefficient).
+
