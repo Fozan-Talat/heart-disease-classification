@@ -14,7 +14,7 @@ The imbalanced data consists of 17 attributes and one target variable `heart_dis
 
 ## The model
 
-The best model was selected from:
+The best model was XGBOOST selected from the following:
 * Logistic Regression
 * Decision Tree
 * Random Forest
